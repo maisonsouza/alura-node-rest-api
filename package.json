@@ -1,0 +1,19 @@
+{
+  "name": "projeto-nodejs-rest",
+  "version": "1.0.0",
+  "description": "Curso de Rest com NodeJS: API com Express e MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maisonsouza/alura-node-rest-api.git"
+  },
+  "author": "Maison Galvão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maisonsouza/alura-node-rest-api/issues"
+  },
+  "homepage": "https://github.com/maisonsouza/alura-node-rest-api#readme"
+}
