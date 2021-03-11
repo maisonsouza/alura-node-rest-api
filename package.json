@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/maisonsouza/alura-node-rest-api/issues"
   },
-  "homepage": "https://github.com/maisonsouza/alura-node-rest-api#readme"
+  "homepage": "https://github.com/maisonsouza/alura-node-rest-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
